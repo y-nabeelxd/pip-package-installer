@@ -1,6 +1,6 @@
 # pip-package-installer
 
-A powerful and automated **pip package installer** script that installs and upgrades Python packages efficiently, with automatic error handling and retry mechanisms.
+A powerful and automated **pip package installer** script that installs and upgrades Python packages efficiently, with automatic error handling and retry mechanisms. (200+ pip packages)
 
 ## 📌 Features
 - Checks if **pip** is installed and installs it if missing.
