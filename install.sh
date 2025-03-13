@@ -38,7 +38,7 @@ packages=(
     "soupsieve" "SpeechRecognition" "speedtest-cli" "spinners" "SQLAlchemy" "sqlparse"
     "tabledata" "tablib" "tabulate" "tcolorpy" "termcolor" "textblob" "tinydb" "toml"
     "tomlkit" "toolz" "torchtext" "turtle" "tornado" "tqdm" "trio" "trio-websocket" "tritonclient"
-    "typepy" "typer" "typing_extensions" "tzdata" "tzlocal" "url-normalize" "urllib3"
+    "typepy" "typer" "typing_extensions" "tzdata" "tzlocal" "qrcode" "url-normalize" "urllib3"
     "uvicorn" "Wand" "watchdog" "wcwidth" "webencodings" "websocket-client" "websockets"
     "Werkzeug" "wheel" "wsproto" "WTForms" "xyzservices" "yapf" "yarl" "yt-dlp" "zipp"
 )
