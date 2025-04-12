@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Ensure pip is installed
 if ! command -v pip &> /dev/null; then
     echo "pip is not installed. Installing now..."
     python3 -m ensurepip --default-pip
@@ -32,12 +31,12 @@ packages=(
     "pyparsing" "pyperclip" "PyRect" "PyScreeze" "pyserial" "PySocks" "pytablewriter"
     "pytesseract" "pytest" "python-dateutil" "python-dotenv" "python-fzf" "python-rapidjson"
     "python3-xlib" "pyttsx3" "pytweening" "pytz" "pyunpack" "pyusb" "python-vlc" "PythonTurtle" "PyYAML" "pyzbar"
-    "pyzipper" "turtle" "records" "redis" "regex" "requests" "requests-cache" "retrying" "rich"
+    "pyzipper" "records" "redis" "regex" "requests" "requests-cache" "retrying" "rich"
     "rich-click" "schedule" "seaborn" "selenium" "serial" "setuptools" "shellingham"
     "simpleaudio" "simplemma" "six" "sniffio" "socketio" "sortedcontainers" "sounddevice"
     "soupsieve" "SpeechRecognition" "speedtest-cli" "spinners" "SQLAlchemy" "sqlparse"
     "tabledata" "tablib" "tabulate" "tcolorpy" "termcolor" "textblob" "tinydb" "toml"
-    "tomlkit" "toolz" "torchtext" "turtle" "tornado" "tqdm" "trio" "trio-websocket" "tritonclient"
+    "tomlkit" "toolz" "torchtext" "tornado" "tqdm" "trio" "trio-websocket" "tritonclient"
     "typepy" "typer" "typing_extensions" "tzdata" "tzlocal" "qrcode" "url-normalize" "urllib3"
     "uvicorn" "Wand" "watchdog" "wcwidth" "webencodings" "websocket-client" "websockets"
     "Werkzeug" "wheel" "wsproto" "WTForms" "xyzservices" "yapf" "yarl" "yt-dlp" "zipp"
